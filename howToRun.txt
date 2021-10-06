@@ -1,0 +1,2 @@
+Enter the folder path to transfer : -C:\Users\93aka\OneDrive\Desktop\abc
+enter the full path to upload to dropbox:- /home/
